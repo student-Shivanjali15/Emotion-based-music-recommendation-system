@@ -1,5 +1,5 @@
 # Importing modules
-import numpy as np
+
 import streamlit as st
 import cv2
 import pandas as pd
@@ -9,7 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Flatten
 from tensorflow.keras.layers import Conv2D
 from tensorflow.keras.layers import MaxPooling2D
-import base64
+import base64import numpy as np
 
 
 
